@@ -29,7 +29,7 @@ function Hero() {
       <div>
         <Image
           src="/hero.png"
-          alt="hero"
+          alt="imagem de carro branco"
           width={400}
           height={500}
           className="w-full object-cover align-middle"

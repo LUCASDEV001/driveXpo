@@ -26,7 +26,7 @@ function About() {
 
         <Image
           src="/sao-paulo-173-c.jpg"
-          alt="hero"
+          alt="Cidade de são paulo à noite"
           width={5000}
           height={1000}
           className="w-96 rounded-full h-96 mx-auto md:mx-0 object-cover shadow-xl align-middle md:mt-10 pointer-events-none"

@@ -13,7 +13,7 @@ function CarsFiltersOption({ carsList, setBrand, orderCarList }: any) {
     carsList.forEach((element: any) => {
       BrandSet.add(element.carBrand);
     });
-    console.log(BrandSet);
+
     setBrandList(Array.from(BrandSet));
   };
   return (

@@ -15,7 +15,7 @@ function Contact() {
         <div className="hidden md:block">
           <Image
             src="/Car-PNG-File.png"
-            alt="hero"
+            alt="Carro preto"
             width={1000}
             height={1000}
             className="w-96 object-cover align-middle pt-20 pointer-events-none"
