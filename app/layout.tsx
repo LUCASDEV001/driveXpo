@@ -23,6 +23,9 @@ export default function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en">
+        <head>
+          <title>DriveXpo</title>
+        </head>
         <body className={inter.className}>
           <SignedIn>
             <NavBar />
